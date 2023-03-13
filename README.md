@@ -6,7 +6,7 @@
 
 <hr/>
 
-<p align="left">
+<p align="justify">
 Hello, I'm iMan, a bioinformatician with a passion for the intersection of mathematics, biology, and artificial intelligence. I completed my undergraduate studies in computer science, where I worked extensively with Java, Spring Framework, and Oracle Database. During this time, I developed a strong foundation in programming and software engineering, as well as experience working with databases and building web applications. After graduation, I pursued my interest in biology by earning a master's degree in bioinformatics, with a focus on Systems Biology. I'm particularly interested in understanding how complex biological systems function and how they can be modeled and simulated using computational methods. During my studies, I became fascinated with the application of mathematics in biology, particularly in the areas of Linear Algebra and Convex Optimization. These fields have been instrumental in developing algorithms for analyzing complex biological data. I've also found that my favorite programming language, Julia, is particularly suited to these applications. Outside of work, I enjoy watching movies, listening to music, and hanging out with friends. I'm always eager to explore new interests and learn something new.
 </p>
 
