@@ -16,8 +16,8 @@ I'm a bioinformatician with a passion for the intersection of mathematics, biolo
 
 - **General:** Optimization, Data science, Parallel Processing
 - **Programming Languages:** Julia, Python, Java
+- **Framework:** JuMP, Spring
 - **Database:** Oracle, MySQL
-- **Web Development:** HTML, CSS, JavaScript
 - **Familiar:** C, R, Matlab
 - **Tools:** Jupyter, LaTeX, Git
 
