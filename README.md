@@ -18,7 +18,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/dev-akshat/count.svg" alt="dev-akshat profile views" /> 
+  <img src="https://profile-counter.glitch.me/iManGHD/count.svg" alt="dev-akshat profile views" /> 
 </p>
 
 <hr/>
