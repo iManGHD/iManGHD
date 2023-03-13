@@ -5,21 +5,12 @@
 </h2>
 
 <h2 align="center">
-    I'm iMan
-   <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
+    I'm 
+     <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
+    iMan
 </h2>
 
 <br/>
-
-<p align="center"> 
-  <samp>
-    Profile Views Count
-  </samp>
-</p>
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/iManGHD/count.svg" alt="dev-akshat profile views" /> 
-</p>
 
 <hr/>
 
