@@ -8,9 +8,9 @@
 
 ### About Me
 
-<div style="text-align: justify">
+<p style="text-align: justify">
 As a bioinformatician, I possess a deep-rooted interest in the intersection of mathematics, biology, and artificial intelligence. I completed my undergraduate studies in computer science, during which time I gained extensive experience with Java, the Spring Framework, and the Oracle Database. These studies enabled me to develop a strong foundation in programming, software engineering, and database management, as well as a proficiency in building web applications. During my master's degree in bioinformatics, with a focus on Systems Biology, I had the opportunity to work as a Julia specialist for [openCOBRA](https://opencobra.github.io/), where I gained valuable experience in utilizing the Julia programming language for modeling complex biological systems. In particular, I leveraged my skills in Linear Algebra and Convex Optimization to develop algorithms for the analysis of complex biological data. These fields have been instrumental in helping me understand how complex biological systems function and how they can be modeled and simulated using computational methods. I remain deeply committed to learning new skills and exploring new interests as they arise
-</div>
+</p>
 
 ### Skills
 
