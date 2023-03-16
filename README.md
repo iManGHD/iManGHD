@@ -15,8 +15,6 @@ As a bioinformatician, I possess a deep-rooted interest in the intersection of m
 
 ### Skills
 
-<img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
-
 - **General:** Optimization, Data science, Parallel Processing
 - **Programming Languages:** Julia, Python, Java
 - **Framework:** JuMP, Spring
@@ -25,6 +23,9 @@ As a bioinformatician, I possess a deep-rooted interest in the intersection of m
 - **Tools:** Jupyter, LaTeX, Git
 
 <hr/>
+
+
+<img align="center" width="1000" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 
 <h2 align="center">Find me on</h2>
 
