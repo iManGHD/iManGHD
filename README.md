@@ -44,4 +44,3 @@ As a bioinformatician, I possess a deep-rooted interest in the intersection of m
     <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
   </a>
 </p>
-
