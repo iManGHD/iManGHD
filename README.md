@@ -4,7 +4,7 @@
     iMan
 </h2>
 
-<hr/>
+
 
 ### About Me
 
