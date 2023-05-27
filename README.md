@@ -24,8 +24,20 @@ As a bioinformatician, I possess a deep-rooted interest in the intersection of m
 
 <hr/>
 
-
 <img align="center" width="1000" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
+
+### My Stats:
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErfanRht&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" />
+	
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanRht&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+<img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ErfanRht&theme=github_dark&hide_border=truelayout=compact&langs_count=8" width="45%" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanRht&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="45%" />
+
+</p>
 
 <h2 align="center">Find me on</h2>
 
