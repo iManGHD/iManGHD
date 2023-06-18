@@ -29,7 +29,7 @@ As a bioinformatician, I possess a deep-rooted interest in the intersection of m
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iManGHD&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" width="40%"  />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iManGHD&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="45%" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iManGHD&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="40%" />
 </p>
 
 <h2 align="center">Find me on</h2>
