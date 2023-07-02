@@ -1,8 +1,11 @@
-<h2 align="center">
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Hello&fontSize=32&animation=fadeIn&fontAlignY=30">
     I'm 
      <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
     iMan
-</h2>
+</div>
+
+
 
 ### About Me
 
