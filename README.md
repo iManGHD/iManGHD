@@ -13,12 +13,12 @@ As a bioinformatician, I possess a deep-rooted interest in the intersection of m
 
 ### Skills
 
-- **General:** Optimization, Data science, Parallel Processing
+- **General:** Optimization, Systems Biology, Parallel Processing, Data science
 - **Programming Languages:** Julia, Python, Java
-- **Framework:** JuMP, Spring
+- **Framework:** JuMP, Convex, Spring
 - **Database:** Oracle, MySQL
 - **Familiar:** C, R, Matlab
-- **Tools:** Jupyter, LaTeX, Git
+- **Tools:** Jupyter, LaTeX, Git, Trello
 
 <hr/>
 
