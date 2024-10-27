@@ -8,7 +8,7 @@
 ### 💫 About Me
 
 <p align='justify'>
-As a bioinformatician, I possess a deep-rooted interest in the intersection of mathematics, biology, and artificial intelligence. During my master's degree in bioinformatics, with a focus on Systems Biology, my research primarily revolved around the Applications of Convex Optimization in Metabolic Network Analysis. I applied my expertise in Linear Algebra and Convex Optimization to develop algorithms for the analysis of complex biological data. Through my work, I gained valuable insights into how computational methods can be utilized to understand the functioning of complex biological systems. I remain deeply committed to expanding my skill set and exploring new interests as they arise.
+Over the past few years, as a bioinformatician, I've developed a profound passion for the convergence of mathematics, biology, and artificial intelligence. My research has centered on the applications of convex optimization in metabolic network analysis. With a focus on Systems biology, I've applied my expertise in linear algebra and convex optimization to create algorithms for analyzing High-throughput data. Through this work, I've gained valuable insights into how computational methods can explain the functioning of complex biological systems. I remain deeply committed to continually expanding my skill set and exploring emerging areas of interest as they emerge.
 </p>
 
 ### 💻 Skills
