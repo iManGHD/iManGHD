@@ -13,12 +13,12 @@ Over the past few years, as a bioinformatician, I've developed a profound passio
 
 ### 💻 Skills
 
-- **General:** Optimization, Systems Biology, Parallel Processing, Data Science
+- **General:** Optimization, Systems Biology, Numerical Computing, Parallel Processing, Data Science
 - **Programming Languages:** Julia, Python, Java
 - **Framework:** JuMP, Convex, Spring, OpenMP, CUDA
 - **Database:** Oracle, MySQL
 - **Familiar:** C, C++, R, Matlab
-- **Tools:** Jupyter, LaTeX, Git, Trello, Notion
+- **Tools:** Jupyter, LaTeX, Git, Trello, Notion, Zotero
 
 <hr/>
 
